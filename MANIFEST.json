@@ -1,6 +1,7 @@
 {
   "asset_version": "v1.0",
-  "release_tag": "v1.0.0",
+  "repository_version": "v1.0.1",
+  "wechat_kit_version": "v1.1",
   "files": [
     {
       "path": ".gitattributes",
@@ -24,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 512,
-      "sha256": "b7235c970e1e3683c37b508b1026615b241a1ccc6c036fe0789460be646d17f1"
+      "bytes": 924,
+      "sha256": "f7d9a3c7a7b8c1b258d4b7fe30417a75a775746f883f7445382f00394aa51c49"
     },
     {
       "path": "NOTICE.md",
@@ -34,8 +35,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3050,
-      "sha256": "f26f7a6e62edfd96b7295ecc70520d26e42ac1d6d4b1273b42c70246005e49bb"
+      "bytes": 3235,
+      "sha256": "25c944f3490c82a5918222a3707038483d903ad28788b36863de81a5b3ba6e2a"
     },
     {
       "path": "brand/Xlab_AI_Logo_System_v1.0/00_Logo_总览.png",
@@ -519,13 +520,13 @@
     },
     {
       "path": "docs/wechat-download-copy.md",
-      "bytes": 1004,
-      "sha256": "e3283fa1a2d504ffb8f80a64f75aed2a1bf6ea704be6695f56a14341eb587ad8"
+      "bytes": 1388,
+      "sha256": "6dcf41dc94d13bcd7b87739c91b20f6a07f902cbc3f8a03bba1037b7688eb59e"
     },
     {
       "path": "downloads/SHA256SUMS.txt",
-      "bytes": 182,
-      "sha256": "122e072927bbd0bab3c6cb94cab39a73b756c5d2910c0b2f8023809e971e7212"
+      "bytes": 276,
+      "sha256": "d5eb2de3342915abfb8c011d3562764638b101f7c61d0f07b7bcb6ed3e5b0f93"
     },
     {
       "path": "downloads/xlab-ai-logo-v1.0.zip",
@@ -538,19 +539,24 @@
       "sha256": "8c7ae4b98bc793f710786310ab20f6237c2ee500aab1520638c7909d46c13f23"
     },
     {
+      "path": "downloads/xlab-ai-wechat-kit-v1.1.zip",
+      "bytes": 540742,
+      "sha256": "2af03ffbddb9147b92c0e1529fe9df51223a5de692574b40b8cf22009b9405c0"
+    },
+    {
       "path": "media/Xlab_AI_公众号发布素材/00_配图与排版说明.txt",
-      "bytes": 1644,
-      "sha256": "fb35e802a40d237e6f9d9af220ae0f390554a2875cc0a4bc9ec205222c6f14d2"
+      "bytes": 2406,
+      "sha256": "52ebcedbc3cdbc43339a3de0205346f1e2f593759edb693117a2c20a71e561b8"
     },
     {
       "path": "media/Xlab_AI_公众号发布素材/01_公众号发布稿.md",
-      "bytes": 5811,
-      "sha256": "3fbda692257000e27ca2bf7d0c3da642226feac2537823855ea9dba9777fbd18"
+      "bytes": 7547,
+      "sha256": "13d5522c0f1957f1e7af6075d08fdc1465959fff58707cda50b30c4faed153f1"
     },
     {
       "path": "media/Xlab_AI_公众号发布素材/02_公众号发布稿.txt",
-      "bytes": 5709,
-      "sha256": "09750f30b3d0631303d7a3aec08eacbe1274a8689e0295d8c565106bb140a18c"
+      "bytes": 7370,
+      "sha256": "04fa2135cfedeab2e0fd3bef2c6073d9486ed903701dcb1568a7754bbe4d55f4"
     },
     {
       "path": "media/Xlab_AI_公众号发布素材/配图/01_浅底横版Logo.png",

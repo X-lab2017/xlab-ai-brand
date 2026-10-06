@@ -8,11 +8,11 @@ X-lab AI 开放实验室品牌升级资源：正式 Logo、数字端基础适配
 
 ## 下载与选用
 
-**[下载全套 Logo（ZIP）](downloads/xlab-ai-logo-v1.0.zip?raw=1)** · **[下载公众号素材（ZIP）](downloads/xlab-ai-wechat-kit-v1.0.zip?raw=1)**
+**[下载全套 Logo（v1.0 ZIP）](downloads/xlab-ai-logo-v1.0.zip?raw=1)** · **[下载公众号素材（v1.1 ZIP）](downloads/xlab-ai-wechat-kit-v1.1.zip?raw=1)**
 
 [按结构和背景选择单个文件](ASSET_INDEX.md) · [使用规范](BRAND_GUIDELINES.md) · [公众号文章](media/Xlab_AI_公众号发布素材/01_公众号发布稿.md)
 
-下载包保留原始交付内容。需要单个文件时，请打开文件索引。使用正式 SVG 或透明 PNG，不要从总览图、草图或历史设计稿截图。
+Logo 下载包保留原始交付内容；公众号素材包 v1.1 已在文章中补入仓库与下载链接，v1.0 归档仍保留在 downloads 目录。需要单个文件时，请打开文件索引。使用正式 SVG 或透明 PNG，不要从总览图、草图或历史设计稿截图。
 
 | 需求 | 选择 |
 | --- | --- |
@@ -41,11 +41,11 @@ brand/Xlab_AI_Logo_System_v1.0/
   04_应用图标/            头像与 favicon
   05_确认稿与历史素材/    仅供溯源，不作生产母版
 media/Xlab_AI_公众号发布素材/
-  01_公众号发布稿.md      原始 Markdown 稿
-  02_公众号发布稿.txt     原始纯文本稿
+  01_公众号发布稿.md      最新 Markdown 稿
+  02_公众号发布稿.txt     最新纯文本稿
   配图/                   三张正式配图
 preview/                  首页展示图
-downloads/               两个原始交付 ZIP 与校验文件
+downloads/               Logo、最新公众号素材、历史归档与校验文件
 ```
 
 ## 品牌使用
@@ -56,7 +56,7 @@ downloads/               两个原始交付 ZIP 与校验文件
 
 ## 版本与维护
 
-当前资产版本：**v1.0**；仓库资源版本：**v1.0.0**。
+当前 Logo 资产版本：**v1.0**；公众号素材包：**v1.1**；仓库资源版本：**v1.0.1**。
 
 [更新记录](CHANGELOG.md) · [文件校验清单](MANIFEST.json) · [供公众号文末使用的资源说明](docs/wechat-download-copy.md)
 

@@ -1,6 +1,6 @@
 # 公众号文末资源下载说明
 
-> 编辑提示：下列内容仅在仓库及 Release 发布并验证后使用。当前离线包本身不代表资源已上线。
+> 编辑提示：品牌资源仓库已公开上线。以下入口直接指向仓库及实际下载文件，可用于本次公众号文章。
 
 ## 可复制的文末段落
 
@@ -12,7 +12,17 @@
 
 品牌资源入口： https://github.com/X-lab2017/xlab-ai-brand
 
-完整版本下载： https://github.com/X-lab2017/xlab-ai-brand/releases/tag/v1.0.0
+全套 Logo 下载（v1.0 ZIP）：
+https://raw.githubusercontent.com/X-lab2017/xlab-ai-brand/main/downloads/xlab-ai-logo-v1.0.zip
+
+公众号文稿与配图下载（v1.1 ZIP）：
+https://raw.githubusercontent.com/X-lab2017/xlab-ai-brand/main/downloads/xlab-ai-wechat-kit-v1.1.zip
+
+品牌使用规范：
+https://github.com/X-lab2017/xlab-ai-brand/blob/main/BRAND_GUIDELINES.md
+
+许可说明：
+https://github.com/X-lab2017/xlab-ai-brand/blob/main/NOTICE.md
 
 ---
 
