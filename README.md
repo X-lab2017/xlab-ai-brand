@@ -56,7 +56,7 @@ downloads/               两个原始交付 ZIP 与校验文件
 
 ## 版本与维护
 
-当前资产版本：**v1.0**；仓库发布标签：**v1.0.0**。
+当前资产版本：**v1.0**；仓库资源版本：**v1.0.0**。
 
 [更新记录](CHANGELOG.md) · [文件校验清单](MANIFEST.json) · [供公众号文末使用的资源说明](docs/wechat-download-copy.md)
 
