@@ -1,0 +1,613 @@
+{
+  "brand": "X-lab AI",
+  "version": "1.0",
+  "production_method": "Path tracing and geometric regularization from approved horizontal concept, unified components and flat original brand colors",
+  "palette": {
+    "green": "#9AD744",
+    "blue": "#07A1D7",
+    "text": "#595757"
+  },
+  "background_dark": "#171A1F",
+  "assets": [
+    {
+      "file": "02_SVG_矢量描摹/01_浅底彩色/XlabAI_Horizontal_ColorLight.svg",
+      "layout": "Horizontal",
+      "theme": "ColorLight",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        1471.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/01_浅底彩色/XlabAI_Horizontal_ColorLight_3000.png",
+      "layout": "Horizontal",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1297
+      ]
+    },
+    {
+      "file": "03_背景预览/01_浅底彩色/XlabAI_Horizontal_ColorLight_Preview.png",
+      "layout": "Horizontal",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/01_浅底彩色/XlabAI_Vertical_ColorLight.svg",
+      "layout": "Vertical",
+      "theme": "ColorLight",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        808.8000000000001,
+        986.6
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/01_浅底彩色/XlabAI_Vertical_ColorLight_3000.png",
+      "layout": "Vertical",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2459,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/01_浅底彩色/XlabAI_Vertical_ColorLight_Preview.png",
+      "layout": "Vertical",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/01_浅底彩色/XlabAI_WordmarkBilingual_ColorLight.svg",
+      "layout": "WordmarkBilingual",
+      "theme": "ColorLight",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        477.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/01_浅底彩色/XlabAI_WordmarkBilingual_ColorLight_3000.png",
+      "layout": "WordmarkBilingual",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1459
+      ]
+    },
+    {
+      "file": "03_背景预览/01_浅底彩色/XlabAI_WordmarkBilingual_ColorLight_Preview.png",
+      "layout": "WordmarkBilingual",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/01_浅底彩色/XlabAI_WordmarkCompact_ColorLight.svg",
+      "layout": "WordmarkCompact",
+      "theme": "ColorLight",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        384.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/01_浅底彩色/XlabAI_WordmarkCompact_ColorLight_3000.png",
+      "layout": "WordmarkCompact",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1174
+      ]
+    },
+    {
+      "file": "03_背景预览/01_浅底彩色/XlabAI_WordmarkCompact_ColorLight_Preview.png",
+      "layout": "WordmarkCompact",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/01_浅底彩色/XlabAI_Symbol_ColorLight.svg",
+      "layout": "Symbol",
+      "theme": "ColorLight",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        536.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/01_浅底彩色/XlabAI_Symbol_ColorLight_3000.png",
+      "layout": "Symbol",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2528,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/01_浅底彩色/XlabAI_Symbol_ColorLight_Preview.png",
+      "layout": "Symbol",
+      "theme": "ColorLight",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/02_深底彩色/XlabAI_Horizontal_ColorDark.svg",
+      "layout": "Horizontal",
+      "theme": "ColorDark",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        1471.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/02_深底彩色/XlabAI_Horizontal_ColorDark_3000.png",
+      "layout": "Horizontal",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1297
+      ]
+    },
+    {
+      "file": "03_背景预览/02_深底彩色/XlabAI_Horizontal_ColorDark_Preview.png",
+      "layout": "Horizontal",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/02_深底彩色/XlabAI_Vertical_ColorDark.svg",
+      "layout": "Vertical",
+      "theme": "ColorDark",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        808.8000000000001,
+        986.6
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/02_深底彩色/XlabAI_Vertical_ColorDark_3000.png",
+      "layout": "Vertical",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2459,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/02_深底彩色/XlabAI_Vertical_ColorDark_Preview.png",
+      "layout": "Vertical",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/02_深底彩色/XlabAI_WordmarkBilingual_ColorDark.svg",
+      "layout": "WordmarkBilingual",
+      "theme": "ColorDark",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        477.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/02_深底彩色/XlabAI_WordmarkBilingual_ColorDark_3000.png",
+      "layout": "WordmarkBilingual",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1459
+      ]
+    },
+    {
+      "file": "03_背景预览/02_深底彩色/XlabAI_WordmarkBilingual_ColorDark_Preview.png",
+      "layout": "WordmarkBilingual",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/02_深底彩色/XlabAI_WordmarkCompact_ColorDark.svg",
+      "layout": "WordmarkCompact",
+      "theme": "ColorDark",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        384.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/02_深底彩色/XlabAI_WordmarkCompact_ColorDark_3000.png",
+      "layout": "WordmarkCompact",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1174
+      ]
+    },
+    {
+      "file": "03_背景预览/02_深底彩色/XlabAI_WordmarkCompact_ColorDark_Preview.png",
+      "layout": "WordmarkCompact",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/02_深底彩色/XlabAI_Symbol_ColorDark.svg",
+      "layout": "Symbol",
+      "theme": "ColorDark",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        536.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/02_深底彩色/XlabAI_Symbol_ColorDark_3000.png",
+      "layout": "Symbol",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2528,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/02_深底彩色/XlabAI_Symbol_ColorDark_Preview.png",
+      "layout": "Symbol",
+      "theme": "ColorDark",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/03_纯黑单色/XlabAI_Horizontal_MonoBlack.svg",
+      "layout": "Horizontal",
+      "theme": "MonoBlack",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        1471.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/03_纯黑单色/XlabAI_Horizontal_MonoBlack_3000.png",
+      "layout": "Horizontal",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1297
+      ]
+    },
+    {
+      "file": "03_背景预览/03_纯黑单色/XlabAI_Horizontal_MonoBlack_Preview.png",
+      "layout": "Horizontal",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/03_纯黑单色/XlabAI_Vertical_MonoBlack.svg",
+      "layout": "Vertical",
+      "theme": "MonoBlack",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        808.8000000000001,
+        986.6
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/03_纯黑单色/XlabAI_Vertical_MonoBlack_3000.png",
+      "layout": "Vertical",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2459,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/03_纯黑单色/XlabAI_Vertical_MonoBlack_Preview.png",
+      "layout": "Vertical",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/03_纯黑单色/XlabAI_WordmarkBilingual_MonoBlack.svg",
+      "layout": "WordmarkBilingual",
+      "theme": "MonoBlack",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        477.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/03_纯黑单色/XlabAI_WordmarkBilingual_MonoBlack_3000.png",
+      "layout": "WordmarkBilingual",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1459
+      ]
+    },
+    {
+      "file": "03_背景预览/03_纯黑单色/XlabAI_WordmarkBilingual_MonoBlack_Preview.png",
+      "layout": "WordmarkBilingual",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/03_纯黑单色/XlabAI_WordmarkCompact_MonoBlack.svg",
+      "layout": "WordmarkCompact",
+      "theme": "MonoBlack",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        384.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/03_纯黑单色/XlabAI_WordmarkCompact_MonoBlack_3000.png",
+      "layout": "WordmarkCompact",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1174
+      ]
+    },
+    {
+      "file": "03_背景预览/03_纯黑单色/XlabAI_WordmarkCompact_MonoBlack_Preview.png",
+      "layout": "WordmarkCompact",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/03_纯黑单色/XlabAI_Symbol_MonoBlack.svg",
+      "layout": "Symbol",
+      "theme": "MonoBlack",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        536.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/03_纯黑单色/XlabAI_Symbol_MonoBlack_3000.png",
+      "layout": "Symbol",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2528,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/03_纯黑单色/XlabAI_Symbol_MonoBlack_Preview.png",
+      "layout": "Symbol",
+      "theme": "MonoBlack",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/04_纯白反白/XlabAI_Horizontal_MonoWhite.svg",
+      "layout": "Horizontal",
+      "theme": "MonoWhite",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        1471.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/04_纯白反白/XlabAI_Horizontal_MonoWhite_3000.png",
+      "layout": "Horizontal",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1297
+      ]
+    },
+    {
+      "file": "03_背景预览/04_纯白反白/XlabAI_Horizontal_MonoWhite_Preview.png",
+      "layout": "Horizontal",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/04_纯白反白/XlabAI_Vertical_MonoWhite.svg",
+      "layout": "Vertical",
+      "theme": "MonoWhite",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        808.8000000000001,
+        986.6
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/04_纯白反白/XlabAI_Vertical_MonoWhite_3000.png",
+      "layout": "Vertical",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2459,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/04_纯白反白/XlabAI_Vertical_MonoWhite_Preview.png",
+      "layout": "Vertical",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/04_纯白反白/XlabAI_WordmarkBilingual_MonoWhite.svg",
+      "layout": "WordmarkBilingual",
+      "theme": "MonoWhite",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        477.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/04_纯白反白/XlabAI_WordmarkBilingual_MonoWhite_3000.png",
+      "layout": "WordmarkBilingual",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1459
+      ]
+    },
+    {
+      "file": "03_背景预览/04_纯白反白/XlabAI_WordmarkBilingual_MonoWhite_Preview.png",
+      "layout": "WordmarkBilingual",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/04_纯白反白/XlabAI_WordmarkCompact_MonoWhite.svg",
+      "layout": "WordmarkCompact",
+      "theme": "MonoWhite",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        981.0,
+        384.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/04_纯白反白/XlabAI_WordmarkCompact_MonoWhite_3000.png",
+      "layout": "WordmarkCompact",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        3000,
+        1174
+      ]
+    },
+    {
+      "file": "03_背景预览/04_纯白反白/XlabAI_WordmarkCompact_MonoWhite_Preview.png",
+      "layout": "WordmarkCompact",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    },
+    {
+      "file": "02_SVG_矢量描摹/04_纯白反白/XlabAI_Symbol_MonoWhite.svg",
+      "layout": "Symbol",
+      "theme": "MonoWhite",
+      "format": "SVG",
+      "transparent": true,
+      "dimensions": [
+        536.0,
+        636.0
+      ]
+    },
+    {
+      "file": "01_PNG_透明底/04_纯白反白/XlabAI_Symbol_MonoWhite_3000.png",
+      "layout": "Symbol",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": true,
+      "dimensions": [
+        2528,
+        3000
+      ]
+    },
+    {
+      "file": "03_背景预览/04_纯白反白/XlabAI_Symbol_MonoWhite_Preview.png",
+      "layout": "Symbol",
+      "theme": "MonoWhite",
+      "format": "PNG",
+      "transparent": false,
+      "dimensions": null
+    }
+  ]
+}

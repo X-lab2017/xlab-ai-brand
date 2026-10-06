@@ -1,0 +1,8 @@
+PASS: Horizontal: 4 palettes have matching alpha masks; transparent PNGs; path-only SVGs; opaque previews.
+PASS: Vertical: 4 palettes have matching alpha masks; transparent PNGs; path-only SVGs; opaque previews.
+PASS: WordmarkBilingual: 4 palettes have matching alpha masks; transparent PNGs; path-only SVGs; opaque previews.
+PASS: WordmarkCompact: 4 palettes have matching alpha masks; transparent PNGs; path-only SVGs; opaque previews.
+PASS: Symbol: 4 palettes have matching alpha masks; transparent PNGs; path-only SVGs; opaque previews.
+PASS: both favicon ICO files contain 6 size layers.
+PASS: all 4 supplied PNGs and all 4 approved PNGs are archived without changes.
+NOTE: Symbol ColorLight and ColorDark intentionally share the same colored artwork.

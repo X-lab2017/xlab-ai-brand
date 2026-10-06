@@ -1,0 +1,5 @@
+# Preserve delivered bytes and their checksums across platforms.
+* -text
+*.png binary
+*.ico binary
+*.zip binary
