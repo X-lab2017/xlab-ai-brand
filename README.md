@@ -32,6 +32,12 @@ X-lab AI 开放实验室品牌升级资源：正式 Logo、数字端基础适配
 
 发布成功后的默认地址：`https://x-lab2017.github.io/xlab-ai-brand/`。部署状态见 [Pages 工作流](https://github.com/X-lab2017/xlab-ai-brand/actions/workflows/pages.yml)。
 
+## 从品牌走向行动：AI 普惠宣言
+
+**让 AI 用得起，更用得好。** X-lab AI 普惠行动已发布，作为实验室的长期愿景与行动承诺。
+
+[在线阅读宣言](https://www.x-lab.info/ai-for-all/) · [行动仓库](https://github.com/X-lab2017/ai-for-all) · [参与公开共建](https://github.com/X-lab2017/ai-for-all/issues/1)
+
 ## 下载与选用
 
 **[下载全套 Logo（v1.0 ZIP）](downloads/xlab-ai-logo-v1.0.zip?raw=1)** · **[下载公众号素材（v1.1 ZIP）](downloads/xlab-ai-wechat-kit-v1.1.zip?raw=1)**
