@@ -6,6 +6,24 @@ X-lab AI 开放实验室品牌升级资源：正式 Logo、数字端基础适配
 
 ![X-lab AI 浅底横版标志](preview/horizontal-light.png)
 
+## 《指数点亮》品牌短片已发布
+
+**[在 B 站观看横屏版｜BV1dSHD64ETB](https://www.bilibili.com/video/BV1dSHD64ETB)**
+
+[![《指数点亮》品牌短片](preview/brand-film-landscape.png)](https://www.bilibili.com/video/BV1dSHD64ETB)
+
+两版均为 **45 秒、1080p、30 fps**，重点文字中英双语呈现，全程背景音乐、无旁白。横版舒展展示，竖版上下展开，保持同一套品牌视觉、叙事与配乐。横屏版已由维护者发布到 B 站。
+
+| 成果 | 下载 / 查看 |
+| --- | --- |
+| 横版 · 1920 × 1080 | [下载 MP4](downloads/xlab-ai-film-landscape-1080p.mp4?raw=1) |
+| 竖版 · 1080 × 1920 | [下载 MP4](downloads/xlab-ai-film-portrait-1080p.mp4?raw=1) |
+| 完整制作文件包 v1.0 | [下载 ZIP](downloads/xlab-ai-film-production-v1.0.zip?raw=1) |
+| 制作文案、配乐、素材、字体许可与渲染代码 | [浏览制作文件](media/brand-film/) · [制作说明](media/brand-film/README.txt) |
+| 制作与发布过程、反馈 | [Issue #2](https://github.com/X-lab2017/xlab-ai-brand/issues/2) |
+
+欢迎通过 Issue 分享播放体验、使用场景及改进建议；反馈时请注明横/竖版、时间点和播放设备。
+
 ## 下载与选用
 
 **[下载全套 Logo（v1.0 ZIP）](downloads/xlab-ai-logo-v1.0.zip?raw=1)** · **[下载公众号素材（v1.1 ZIP）](downloads/xlab-ai-wechat-kit-v1.1.zip?raw=1)**
@@ -44,6 +62,7 @@ media/Xlab_AI_公众号发布素材/
   01_公众号发布稿.md      最新 Markdown 稿
   02_公众号发布稿.txt     最新纯文本稿
   配图/                   三张正式配图
+media/brand-film/         短片制作文件、配乐、字体许可与片尾静帧
 preview/                  首页展示图
 downloads/               Logo、最新公众号素材、历史归档与校验文件
 ```
@@ -56,7 +75,7 @@ downloads/               Logo、最新公众号素材、历史归档与校验文
 
 ## 版本与维护
 
-当前 Logo 资产版本：**v1.0**；公众号素材包：**v1.1**；仓库资源版本：**v1.0.1**。
+当前 Logo 资产版本：**v1.0**；公众号素材包：**v1.1**；短片版本：**v1.0**；仓库资源版本：**v1.1.0**。
 
 [更新记录](CHANGELOG.md) · [文件校验清单](MANIFEST.json) · [供公众号文末使用的资源说明](docs/wechat-download-copy.md)
 

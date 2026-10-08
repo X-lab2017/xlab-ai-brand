@@ -1,0 +1,43 @@
+{
+  "videos": [
+    {
+      "file": "Xlab_AI_指数点亮_横版_1920x1080.mp4",
+      "bytes": 4032054,
+      "sha256": "022fe9d508901d33cbe684eabc895f94fb03ee059ae6bc8890ab53187b6834ca",
+      "duration": 45.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "video_codec": "H.264",
+      "audio_codec": "AAC",
+      "audio_channels": 2,
+      "decode_errors": 0,
+      "qr_url": "https://github.com/X-lab2017/xlab-ai-brand",
+      "qr_verified_at": 41.5,
+      "render_reference_rmse": 2.1153295040130615,
+      "audio_pcm_md5": "MD5=9b62fd60d51352e5fb21500e6ccb12e6"
+    },
+    {
+      "file": "Xlab_AI_指数点亮_竖版_1080x1920.mp4",
+      "bytes": 3813988,
+      "sha256": "533e7405b8b6cf51e4db84cefec067eae910b32a2e46d0b5dae8c9ffa7b607cf",
+      "duration": 45.0,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "video_codec": "H.264",
+      "audio_codec": "AAC",
+      "audio_channels": 2,
+      "decode_errors": 0,
+      "qr_url": "https://github.com/X-lab2017/xlab-ai-brand",
+      "qr_verified_at": 41.5,
+      "render_reference_rmse": 2.176211357116699,
+      "audio_pcm_md5": "MD5=9b62fd60d51352e5fb21500e6ccb12e6"
+    }
+  ],
+  "same_soundtrack": true,
+  "integrated_loudness_lufs": -16.1,
+  "true_peak_dbtp": -2.2,
+  "original_instrumental_music": true,
+  "voice_over": false
+}

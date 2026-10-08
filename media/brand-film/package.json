@@ -1,0 +1,15 @@
+{
+  "name": "xlab-ai-exponent-film",
+  "version": "1.0.0",
+  "private": true,
+  "description": "45-second bilingual X-lab AI brand film",
+  "scripts": {
+    "landscape": "node source/render.js landscape",
+    "portrait": "node source/render.js portrait",
+    "preview": "node source/render.js landscape --preview && node source/render.js portrait --preview"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "sharp": "0.35.4"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "指数点亮 / Potential, amplified.",
+  "duration_seconds": 45.0,
+  "bpm": 96,
+  "key": "D major",
+  "type": "Original synthesized instrumental composition",
+  "speech": false,
+  "third_party_recordings": false,
+  "sections": [
+    [
+      0,
+      5,
+      "Ignition"
+    ],
+    [
+      5,
+      12.5,
+      "Exponent"
+    ],
+    [
+      12.5,
+      20,
+      "Idea"
+    ],
+    [
+      20,
+      30,
+      "System"
+    ],
+    [
+      30,
+      37.5,
+      "Applications"
+    ],
+    [
+      37.5,
+      45,
+      "Invitation"
+    ]
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "asset_version": "v1.0",
-  "repository_version": "v1.0.1",
+  "repository_version": "v1.1.0",
   "wechat_kit_version": "v1.1",
   "files": [
     {
@@ -25,8 +25,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 924,
-      "sha256": "f7d9a3c7a7b8c1b258d4b7fe30417a75a775746f883f7445382f00394aa51c49"
+      "bytes": 1325,
+      "sha256": "e2ebfc8979654adc146415c96a2b7635ce227d986a392fa63a2d9a66c905861e"
     },
     {
       "path": "NOTICE.md",
@@ -35,8 +35,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3235,
-      "sha256": "25c944f3490c82a5918222a3707038483d903ad28788b36863de81a5b3ba6e2a"
+      "bytes": 4548,
+      "sha256": "29c8fc4106a74c58dbb9d621e5187f155c1c995025b934b3fcb066b81c6b652d"
     },
     {
       "path": "brand/Xlab_AI_Logo_System_v1.0/00_Logo_总览.png",
@@ -529,6 +529,21 @@
       "sha256": "d5eb2de3342915abfb8c011d3562764638b101f7c61d0f07b7bcb6ed3e5b0f93"
     },
     {
+      "path": "downloads/xlab-ai-film-landscape-1080p.mp4",
+      "bytes": 4032054,
+      "sha256": "022fe9d508901d33cbe684eabc895f94fb03ee059ae6bc8890ab53187b6834ca"
+    },
+    {
+      "path": "downloads/xlab-ai-film-portrait-1080p.mp4",
+      "bytes": 3813988,
+      "sha256": "533e7405b8b6cf51e4db84cefec067eae910b32a2e46d0b5dae8c9ffa7b607cf"
+    },
+    {
+      "path": "downloads/xlab-ai-film-production-v1.0.zip",
+      "bytes": 23751502,
+      "sha256": "4489270ff783cf610285796e39494a877d14fde13c1db0ad50d10fa002d71c04"
+    },
+    {
       "path": "downloads/xlab-ai-logo-v1.0.zip",
       "bytes": 8078950,
       "sha256": "088c55059e4d8b6588f66677e0ee13b095ad740eb45d48b37835e593f5a003fa"
@@ -574,6 +589,241 @@
       "sha256": "6a75701e7b5a95d6f3711057660b30be431bd67dfe761257767dab0749ad83ce"
     },
     {
+      "path": "media/brand-film/README.txt",
+      "bytes": 3080,
+      "sha256": "11f677fa082c2a8bdb6731729ee4bd84db4de4d4d238cc8403b031029d9eca35"
+    },
+    {
+      "path": "media/brand-film/assets/BRAND_NOTICE.md",
+      "bytes": 634,
+      "sha256": "c14334cee26cc746c8e9b12951a376e15bf3bcf8ae99e21ad726cd605366cb45"
+    },
+    {
+      "path": "media/brand-film/assets/Horizontal_ai.svg",
+      "bytes": 1443,
+      "sha256": "ca48cc7eab4746a5ce26fc92c26a62f689074ceac843d6c516e96f4ee0da6748"
+    },
+    {
+      "path": "media/brand-film/assets/Horizontal_base.svg",
+      "bytes": 17244,
+      "sha256": "d9183617316f0f6446968aa955e83203c39083bdd7c0889e7660dd8d5f3a30d8"
+    },
+    {
+      "path": "media/brand-film/assets/Vertical_ai.svg",
+      "bytes": 1448,
+      "sha256": "e7239d45dfe2beb1347a0bce5d897d7579b5c199ff0c8ac78488e5308b8a5f76"
+    },
+    {
+      "path": "media/brand-film/assets/Vertical_base.svg",
+      "bytes": 17252,
+      "sha256": "1b46c9015c35becf6cd7622b03afb903f4ac8252f6538c1e621fc04a871d52e7"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Avatar_ColorDark_1024.png",
+      "bytes": 22956,
+      "sha256": "6814730701d3c6e3e0ba06d135a83758b6a16494800f55f2f3b880c4d929666e"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Avatar_ColorLight_1024.png",
+      "bytes": 21300,
+      "sha256": "2d06805e57e5f3214045e0707e8c7288e63668f60e4ffdfddb7b9762e21d8958"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Horizontal_ColorDark.svg",
+      "bytes": 18199,
+      "sha256": "a98da5713906f27fba3d0672172e683d7bea25259c3df424b329654b44db4a03"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Horizontal_ColorLight.svg",
+      "bytes": 18199,
+      "sha256": "f7e3b1f6d5e6bd2d3eb6af84af1ffed91fe3130ffa18ad6ca5dfd1801363c4b6"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Horizontal_MonoBlack.svg",
+      "bytes": 18199,
+      "sha256": "4247f58cf48252ab023ea68d2e3552b37ee867a7b4222f81837775f02522711e"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Horizontal_MonoWhite.svg",
+      "bytes": 18199,
+      "sha256": "25e3bbc0b0c85b80cf00f4fbfb57302fe42804e569b43538e8d46ae74378e105"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Symbol_ColorDark.svg",
+      "bytes": 1423,
+      "sha256": "bb2f50ba7761cdcb72a55b827575ac21d9a1205f71f113d811079e185246c846"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Symbol_ColorLight.svg",
+      "bytes": 1423,
+      "sha256": "dd53f14b05e4af924d5aeae62fb48e1065df94a561672870fad3530033bd500f"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Symbol_MonoBlack.svg",
+      "bytes": 1423,
+      "sha256": "6561b8f9bb2885def4db9a75db76a84f5ec71a747839b5d7de40bcc15ad62b45"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Symbol_MonoWhite.svg",
+      "bytes": 1423,
+      "sha256": "22f949035e5e675c4023a434c300bb16861ef114b9178644b9eb8c011c8d77f0"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Vertical_ColorDark.svg",
+      "bytes": 18207,
+      "sha256": "621107baf8a1f0e6cc34b02eaa16c5a7a34930ccc260b5404027724b26aa6db5"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Vertical_ColorLight.svg",
+      "bytes": 18207,
+      "sha256": "d5051b4fa3ae7c831647b0bee42eab708b652e967eeb3ce0b07a98027c00e956"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Vertical_MonoBlack.svg",
+      "bytes": 18207,
+      "sha256": "ea1bc5fa512023f112f65c8f00013f94f5d8ef90204eec94752ce0ec0549b21b"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_Vertical_MonoWhite.svg",
+      "bytes": 18207,
+      "sha256": "578bcd591df08e8c4c31bbf5ecfd821c44febc83dd03f3e2c618052d9a5de146"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkBilingual_ColorDark.svg",
+      "bytes": 17121,
+      "sha256": "3a064a73a8fe155476902835f7dc2adceff24ed344bd4d08af8f2e771bb65dc6"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkBilingual_ColorLight.svg",
+      "bytes": 17121,
+      "sha256": "6ee1524641dd54b9cc3ef1061ba3190362be28c6ef8d3bdd8e21c4bf2eea68f8"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkBilingual_MonoBlack.svg",
+      "bytes": 17121,
+      "sha256": "2d8ce1325853e7a10356efbf082d58f5a92ac57ada3a15455dee20a0764682d5"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkBilingual_MonoWhite.svg",
+      "bytes": 17121,
+      "sha256": "0f9f1d37cfeb0d5a93b88805ae0efa48a12a681852c7d47685e1fdbbadd75ae7"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkCompact_ColorDark.svg",
+      "bytes": 5987,
+      "sha256": "975dae0de26efb38386bbcecfd9a6221b0d10b99323c29775ee9c523598ead8d"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkCompact_ColorLight.svg",
+      "bytes": 5987,
+      "sha256": "651eade870aee429cd29a8d72e9c40c025afc9a4984d59875f69190bd1367cea"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkCompact_MonoBlack.svg",
+      "bytes": 5987,
+      "sha256": "ca0a5ec0a308cc7ecf83cfb16d0ebafeb00a0230102f17f062dbfabb1df766d0"
+    },
+    {
+      "path": "media/brand-film/assets/XlabAI_WordmarkCompact_MonoWhite.svg",
+      "bytes": 5987,
+      "sha256": "c01da70e5f7882756d5eb89f6e3fdf252a82a8182a2b5b3176ea64c896031671"
+    },
+    {
+      "path": "media/brand-film/assets/music_master.wav",
+      "bytes": 8640078,
+      "sha256": "555089fe3f507d616d97553b1ef95bb6e74d69c1b587356d3de2927fa414c9af"
+    },
+    {
+      "path": "media/brand-film/assets/repository_qr.png",
+      "bytes": 1892,
+      "sha256": "f97a359a7ca36b756fc194e2a37f189864b76291a512e544649c881a6ed94040"
+    },
+    {
+      "path": "media/brand-film/assets/source_manifest.json",
+      "bytes": 5484,
+      "sha256": "59158bcf76fa27220a9d95b6f166b375056044fc543d0631c7ec9d26cd71bcaf"
+    },
+    {
+      "path": "media/brand-film/fonts/NotoSans-OFL.txt",
+      "bytes": 4396,
+      "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+    },
+    {
+      "path": "media/brand-film/fonts/NotoSans-Variable.ttf",
+      "bytes": 2049096,
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    },
+    {
+      "path": "media/brand-film/fonts/OFL.txt",
+      "bytes": 4463,
+      "sha256": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2"
+    },
+    {
+      "path": "media/brand-film/fonts/SourceHanSansSC-Regular.otf",
+      "bytes": 16529832,
+      "sha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256"
+    },
+    {
+      "path": "media/brand-film/package.json",
+      "bytes": 445,
+      "sha256": "446537ecbcd6a2afa1d2b49b53ab2070c7ee57e32b4688f250097f6eecb6042f"
+    },
+    {
+      "path": "media/brand-film/posters/Xlab_AI_指数点亮_横版_片尾.png",
+      "bytes": 296433,
+      "sha256": "1525b6911c3cadb1ca46c4097a125d54c2851ec5a17feac7da2b1f8271c0d90c"
+    },
+    {
+      "path": "media/brand-film/posters/Xlab_AI_指数点亮_竖版_片尾.png",
+      "bytes": 274328,
+      "sha256": "5c01e2b92aa9fecbb7f6b3fcbafb4ed035dcdcc475bbeb462799be6e7a2508ef"
+    },
+    {
+      "path": "media/brand-film/requirements.txt",
+      "bytes": 36,
+      "sha256": "4181c6a623566b72af7a0974fa7c59bce81438e76bfddafc38890c3a9837a9e6"
+    },
+    {
+      "path": "media/brand-film/source/bilingual_copy.json",
+      "bytes": 1036,
+      "sha256": "c7f4ddb9ad0cc1f65a2c22693cb97c707460e74fe3be1519d68025b56247c1a4"
+    },
+    {
+      "path": "media/brand-film/source/compose_music.py",
+      "bytes": 4914,
+      "sha256": "8246d8646efb64da80dda83619cd29a495bee8f85c934e628785a298bebf0404"
+    },
+    {
+      "path": "media/brand-film/source/music_notes.json",
+      "bytes": 552,
+      "sha256": "8a6e5c6d1be25cb7420edb57986b61377bc8382756451e66c34341f091741fdd"
+    },
+    {
+      "path": "media/brand-film/source/prepare_assets.py",
+      "bytes": 3502,
+      "sha256": "46683f2771dd33258513cd5359e11490a0c688930f8cbc36c604c34568be0042"
+    },
+    {
+      "path": "media/brand-film/source/quality_checks.json",
+      "bytes": 1331,
+      "sha256": "902f10f5bf094711bcbc14b3e8fef16dbf83527b9faa5e8928129f5f54b3300d"
+    },
+    {
+      "path": "media/brand-film/source/render.js",
+      "bytes": 18619,
+      "sha256": "dd1e3a339531c936055f7c634d1071b808224a641543309e53b9f68a13cee74a"
+    },
+    {
+      "path": "media/brand-film/source/verify_and_package.py",
+      "bytes": 4078,
+      "sha256": "34dc350c62f0c9c62a3d16c9ce958831b797d9f1db3c35df55bd4433bdd27eed"
+    },
+    {
+      "path": "preview/brand-film-landscape.png",
+      "bytes": 296433,
+      "sha256": "1525b6911c3cadb1ca46c4097a125d54c2851ec5a17feac7da2b1f8271c0d90c"
+    },
+    {
       "path": "preview/horizontal-dark.png",
       "bytes": 67974,
       "sha256": "6a75701e7b5a95d6f3711057660b30be431bd67dfe761257767dab0749ad83ce"
@@ -588,5 +838,6 @@
       "bytes": 433615,
       "sha256": "aca67f967c122813651506bdd10e4e393479b936ede87e1da36a2c221a0dec5f"
     }
-  ]
+  ],
+  "brand_film_version": "v1.0"
 }

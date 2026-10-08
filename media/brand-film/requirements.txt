@@ -1,0 +1,5 @@
+numpy
+scipy
+Pillow
+qrcode
+zxing-cpp
