@@ -9,6 +9,11 @@
       "sha256": "58cd0a097180a47b4eddc1bdb6e5cd8a7eacf81318558998d86ea279924e8b07"
     },
     {
+      "path": ".github/workflows/pages.yml",
+      "bytes": 686,
+      "sha256": "2a7cbb9081b9dd58865097d00dd362a57a93f145793d4b47e089c3479f73bfae"
+    },
+    {
       "path": ".gitignore",
       "bytes": 39,
       "sha256": "4eea44bdb190febbb19fcd57824a4e10a52d15fb82b4125b0f275251ba085e3b"
@@ -25,8 +30,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1325,
-      "sha256": "e2ebfc8979654adc146415c96a2b7635ce227d986a392fa63a2d9a66c905861e"
+      "bytes": 1583,
+      "sha256": "5b380f2e9414a60593fe4c4d8edaebeaa4a16c2f0fce16cf14e998157258bcff"
     },
     {
       "path": "NOTICE.md",
@@ -35,8 +40,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4548,
-      "sha256": "29c8fc4106a74c58dbb9d621e5187f155c1c995025b934b3fcb066b81c6b652d"
+      "bytes": 5076,
+      "sha256": "3307071f25a2147b6b51292d7000787d1a1f30f471a5087f0601d915aef00236"
     },
     {
       "path": "brand/Xlab_AI_Logo_System_v1.0/00_Logo_总览.png",
@@ -837,6 +842,81 @@
       "path": "preview/logo-system-overview.png",
       "bytes": 433615,
       "sha256": "aca67f967c122813651506bdd10e4e393479b936ede87e1da36a2c221a0dec5f"
+    },
+    {
+      "path": "site/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "site/assets/XlabAI_Horizontal_ColorDark.svg",
+      "bytes": 18199,
+      "sha256": "a98da5713906f27fba3d0672172e683d7bea25259c3df424b329654b44db4a03"
+    },
+    {
+      "path": "site/assets/XlabAI_Horizontal_ColorLight.svg",
+      "bytes": 18199,
+      "sha256": "f7e3b1f6d5e6bd2d3eb6af84af1ffed91fe3130ffa18ad6ca5dfd1801363c4b6"
+    },
+    {
+      "path": "site/assets/XlabAI_Symbol_ColorDark.svg",
+      "bytes": 1423,
+      "sha256": "bb2f50ba7761cdcb72a55b827575ac21d9a1205f71f113d811079e185246c846"
+    },
+    {
+      "path": "site/assets/XlabAI_Symbol_ColorLight.svg",
+      "bytes": 1423,
+      "sha256": "dd53f14b05e4af924d5aeae62fb48e1065df94a561672870fad3530033bd500f"
+    },
+    {
+      "path": "site/assets/XlabAI_Vertical_ColorDark.svg",
+      "bytes": 18207,
+      "sha256": "621107baf8a1f0e6cc34b02eaa16c5a7a34930ccc260b5404027724b26aa6db5"
+    },
+    {
+      "path": "site/assets/XlabAI_Vertical_ColorLight.svg",
+      "bytes": 18207,
+      "sha256": "d5051b4fa3ae7c831647b0bee42eab708b652e967eeb3ce0b07a98027c00e956"
+    },
+    {
+      "path": "site/assets/XlabAI_WordmarkBilingual_ColorDark.svg",
+      "bytes": 17121,
+      "sha256": "3a064a73a8fe155476902835f7dc2adceff24ed344bd4d08af8f2e771bb65dc6"
+    },
+    {
+      "path": "site/assets/XlabAI_WordmarkBilingual_ColorLight.svg",
+      "bytes": 17121,
+      "sha256": "6ee1524641dd54b9cc3ef1061ba3190362be28c6ef8d3bdd8e21c4bf2eea68f8"
+    },
+    {
+      "path": "site/assets/XlabAI_WordmarkCompact_ColorDark.svg",
+      "bytes": 5987,
+      "sha256": "975dae0de26efb38386bbcecfd9a6221b0d10b99323c29775ee9c523598ead8d"
+    },
+    {
+      "path": "site/assets/XlabAI_WordmarkCompact_ColorLight.svg",
+      "bytes": 5987,
+      "sha256": "651eade870aee429cd29a8d72e9c40c025afc9a4984d59875f69190bd1367cea"
+    },
+    {
+      "path": "site/assets/film-poster.png",
+      "bytes": 296433,
+      "sha256": "1525b6911c3cadb1ca46c4097a125d54c2851ec5a17feac7da2b1f8271c0d90c"
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 8504,
+      "sha256": "4101d4a661e2edf3eac718fa9ce66d532b42d718f0bd0806904015cf301d4038"
+    },
+    {
+      "path": "site/script.js",
+      "bytes": 576,
+      "sha256": "df143457ba21145165f7ba0a6db5c2770bd9c0660cc92b50e6642d02c686545e"
+    },
+    {
+      "path": "site/style.css",
+      "bytes": 8541,
+      "sha256": "cd01791f8d89c037f598909bc57998639dfb24bb5e11e96f23a8cf28801fc598"
     }
   ],
   "brand_film_version": "v1.0"

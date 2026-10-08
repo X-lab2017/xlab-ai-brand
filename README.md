@@ -24,6 +24,14 @@ X-lab AI 开放实验室品牌升级资源：正式 Logo、数字端基础适配
 
 欢迎通过 Issue 分享播放体验、使用场景及改进建议；反馈时请注明横/竖版、时间点和播放设备。
 
+## 品牌展示网站
+
+网站提供品牌理念、深浅背景 Logo 交互预览、短片在线播放与素材下载。源文件位于 [`site/`](site/)。
+
+首次发布：在仓库 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。之后修改 `site/` 并提交到 `main` 即可自动更新网站。
+
+发布成功后的默认地址：`https://x-lab2017.github.io/xlab-ai-brand/`。部署状态见 [Pages 工作流](https://github.com/X-lab2017/xlab-ai-brand/actions/workflows/pages.yml)。
+
 ## 下载与选用
 
 **[下载全套 Logo（v1.0 ZIP）](downloads/xlab-ai-logo-v1.0.zip?raw=1)** · **[下载公众号素材（v1.1 ZIP）](downloads/xlab-ai-wechat-kit-v1.1.zip?raw=1)**
